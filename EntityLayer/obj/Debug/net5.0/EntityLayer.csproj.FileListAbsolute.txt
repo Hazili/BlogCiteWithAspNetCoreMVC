@@ -1,0 +1,12 @@
+C:\Users\Mushvig\source\MySecondProject\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+C:\Users\Mushvig\source\MySecondProject\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\Mushvig\source\MySecondProject\EntityLayer\bin\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\Mushvig\source\MySecondProject\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\Mushvig\source\MySecondProject\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\Mushvig\source\MySecondProject\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mushvig\source\MySecondProject\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\Mushvig\source\MySecondProject\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+C:\Users\Mushvig\source\MySecondProject\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Mushvig\source\MySecondProject\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+C:\Users\Mushvig\source\MySecondProject\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\Mushvig\source\MySecondProject\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
